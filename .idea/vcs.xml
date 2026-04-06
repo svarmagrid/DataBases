@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ConnectionPooling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practical-Task2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practical-task3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pratical-Task1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QueryingDataWithSQL" vcs="Git" />
+  </component>
+</project>
